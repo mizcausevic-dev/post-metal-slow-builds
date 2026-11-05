@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:23.795120+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z5601-post-metal-slow-builds-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "9ecfd4d68a9f03f429d130099783f67a2b31ccf3d58b726880a350acd0e0cac0",
+      "errors": []
+    },
+    {
+      "path": "midi/z5601-post-metal-slow-builds-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "82da9780ca6c29531fe464cea375bc9a316c59599bb9b8f3dfe560763c3710ee",
+      "errors": []
+    },
+    {
+      "path": "midi/z5601-post-metal-slow-builds-opening/drums.mid",
+      "bytes": 2673,
+      "sha256": "3aee279e1b2f908ec1d2259374a25098cae35fdaece60d3e772bbaf645cc1950",
+      "errors": []
+    },
+    {
+      "path": "midi/z5601-post-metal-slow-builds-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "65de42a97961659ae84a8711fb02a6d77405da8bc1b4c22ce3e6f60e4d479d55",
+      "errors": []
+    },
+    {
+      "path": "midi/z5601-post-metal-slow-builds-opening/sub_bass.mid",
+      "bytes": 790,
+      "sha256": "deea0e4f8977c8cc8061b6f5ee004e12e38979bfe421aad22dfdd78cb58eb332",
+      "errors": []
+    },
+    {
+      "path": "midi/z5601-post-metal-slow-builds-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "515df656df3b823634e591a1a23e9777653ca152de93f47fc82b87eaab5c8c12",
+      "errors": []
+    },
+    {
+      "path": "midi/z5601-post-metal-slow-builds-opening/z5601-post-metal-slow-builds-opening-combined.mid",
+      "bytes": 5693,
+      "sha256": "8d06d7fc8898f2a7e9d67f0e9f6d321ac6e1c47bc2a531d88db72cb7667b3342",
+      "errors": []
+    },
+    {
+      "path": "midi/z5602-post-metal-slow-builds-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "3c402e2a68ef7956e3b3ac31e4366e72f64d4b235861d6dbd32ea00035408f13",
+      "errors": []
+    },
+    {
+      "path": "midi/z5602-post-metal-slow-builds-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "6c76889417e1291e7de77afba272ab0dc3f267b5115185b2833efbe89e8d47ca",
+      "errors": []
+    },
+    {
+      "path": "midi/z5602-post-metal-slow-builds-variation/drums.mid",
+      "bytes": 2673,
+      "sha256": "3aee279e1b2f908ec1d2259374a25098cae35fdaece60d3e772bbaf645cc1950",
+      "errors": []
+    },
+    {
+      "path": "midi/z5602-post-metal-slow-builds-variation/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "a02b6de2de6e344643b10aca72224bf68c002f88096f87ba6eaae5e7c7c960bd",
+      "errors": []
+    },
+    {
+      "path": "midi/z5602-post-metal-slow-builds-variation/sub_bass.mid",
+      "bytes": 790,
+      "sha256": "66df62587822d61e276d7fc272f9d3bf79d9e9bddd8cd1ed03e5f14a6b9ac335",
+      "errors": []
+    },
+    {
+      "path": "midi/z5602-post-metal-slow-builds-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "af846a949f389dd7f34059257c7938d5fdd9e9617860e93ad01a1f9f92cc7aac",
+      "errors": []
+    },
+    {
+      "path": "midi/z5602-post-metal-slow-builds-variation/z5602-post-metal-slow-builds-variation-combined.mid",
+      "bytes": 5693,
+      "sha256": "3cd3aea2d3578c553a607a126fca31c0b47cf35d36cc6f7f582222aeb45a430e",
+      "errors": []
+    },
+    {
+      "path": "midi/z5603-post-metal-slow-builds-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "6e31ee9dd82e0f09a45ddb5f0d35c4c88e65751617faa86b35d4dd49b90011bd",
+      "errors": []
+    },
+    {
+      "path": "midi/z5603-post-metal-slow-builds-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "6274f90a937ef9055185932d19d49c692deac4fa7f6d335e2c542b5365ff7b49",
+      "errors": []
+    },
+    {
+      "path": "midi/z5603-post-metal-slow-builds-contrast/drums.mid",
+      "bytes": 2673,
+      "sha256": "3aee279e1b2f908ec1d2259374a25098cae35fdaece60d3e772bbaf645cc1950",
+      "errors": []
+    },
+    {
+      "path": "midi/z5603-post-metal-slow-builds-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "106833e71fc9ddbeb220dab9d36caba143a8a4d8140af8f8f51939042219d8da",
+      "errors": []
+    },
+    {
+      "path": "midi/z5603-post-metal-slow-builds-contrast/sub_bass.mid",
+      "bytes": 790,
+      "sha256": "54df3beb9c512d23eaa8875955b7ab07094902a2572ed6aa5233132183d86349",
+      "errors": []
+    },
+    {
+      "path": "midi/z5603-post-metal-slow-builds-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "9f322288c55e5556531a9f2eb0109a48a0cd6257777ca719be8e0dc785a3db41",
+      "errors": []
+    },
+    {
+      "path": "midi/z5603-post-metal-slow-builds-contrast/z5603-post-metal-slow-builds-contrast-combined.mid",
+      "bytes": 5659,
+      "sha256": "a8b8c5da128e14ac42cb908a94ab8303b8e9ed81e6de6a42a06a34ab695fc87f",
+      "errors": []
+    },
+    {
+      "path": "midi/z5604-post-metal-slow-builds-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "afaea958eb9a576f61a8e87d4454ecb484fa0be7abedbdd30dff0ee7b6a182ce",
+      "errors": []
+    },
+    {
+      "path": "midi/z5604-post-metal-slow-builds-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "70e2ea690fd7da291f05eea76f26beb2c54c56d13c3c4dd8e1c81b35c227389d",
+      "errors": []
+    },
+    {
+      "path": "midi/z5604-post-metal-slow-builds-return/drums.mid",
+      "bytes": 2673,
+      "sha256": "3aee279e1b2f908ec1d2259374a25098cae35fdaece60d3e772bbaf645cc1950",
+      "errors": []
+    },
+    {
+      "path": "midi/z5604-post-metal-slow-builds-return/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "c3a14519ea447d1456697853d9ce3253b4086db5098c9f2523f9e2bcde405717",
+      "errors": []
+    },
+    {
+      "path": "midi/z5604-post-metal-slow-builds-return/sub_bass.mid",
+      "bytes": 790,
+      "sha256": "bc85ab3a4aae1afe213642b56ed77df8abde3647af3e58219c32c41e4eadf955",
+      "errors": []
+    },
+    {
+      "path": "midi/z5604-post-metal-slow-builds-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ce1bb462831b75f66c6990a974e394411cdbee8d1e4232c6b8d9df7584043d54",
+      "errors": []
+    },
+    {
+      "path": "midi/z5604-post-metal-slow-builds-return/z5604-post-metal-slow-builds-return-combined.mid",
+      "bytes": 5659,
+      "sha256": "69f2730c8de8e69b9eb4366285b1b852c52c9b058750fa604ba1a5f2639fa7f7",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

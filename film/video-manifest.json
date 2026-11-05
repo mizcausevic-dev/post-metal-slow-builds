@@ -1,0 +1,26 @@
+{
+  "title": "Post-Metal Slow Builds",
+  "study": "z5601",
+  "bpm": 148,
+  "source_audio": "preview/post-metal-slow-builds-simple-synth-preview.mp3",
+  "source_audio_sha256": "46ec18a18165db501be5aaf0c796cfd1fac5736a85f92ad80e218c6d09a3be0d",
+  "source_midi": "midi/z5601-post-metal-slow-builds-opening/z5601-post-metal-slow-builds-opening-combined.mid",
+  "source_midi_sha256": "8d06d7fc8898f2a7e9d67f0e9f6d321ac6e1c47bc2a531d88db72cb7667b3342",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "4093dcc516797d5025abb9bed4ab36776c9efc9e149e73916dcbe844bcc1b895",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "5d50bf34ad5af178c50a748f72f934346ced9013542b15b01fb85ac56a47845c",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "6b8185bb01d415a2381c9c3947008ecc3b1bf941fe35f2aa2d588dcb35cf1d21",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

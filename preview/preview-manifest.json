@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/post-metal-slow-builds-simple-synth-preview.mp3",
+  "preview_sha256": "46ec18a18165db501be5aaf0c796cfd1fac5736a85f92ad80e218c6d09a3be0d",
+  "source_midi_path": "midi/z5601-post-metal-slow-builds-opening/z5601-post-metal-slow-builds-opening-combined.mid",
+  "source_midi_sha256": "8d06d7fc8898f2a7e9d67f0e9f6d321ac6e1c47bc2a531d88db72cb7667b3342",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z5601",
+    "start_seconds": 0,
+    "end_seconds": 51.892
+  },
+  "measurement": {
+    "sample_peak": 0.149045,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
