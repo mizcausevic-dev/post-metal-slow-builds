@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/post-metal-slow-builds-midi.zip",
-      "bytes": 31416,
-      "sha256": "2227621644a3cbe74050866e3dd6839b6360f07a48955ae3eba9abe728aa404b"
+      "bytes": 32403,
+      "sha256": "9d2296ff33fa69cdc7e3c6f48ddc91217595b66b6621cbfe8a18282ba9b07361"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9972,
-      "sha256": "1254dfbc57d3c0039cdd78e78f6dff52e66c0c7ebeec46c90c1ed7e2c2335232"
+      "bytes": 10162,
+      "sha256": "d1508cf8e233dc85bf61d48e4f808c2a7a13bc64456655728965161f0202898c"
     },
     {
       "path": "midi/z5601-post-metal-slow-builds-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "69f2730c8de8e69b9eb4366285b1b852c52c9b058750fa604ba1a5f2639fa7f7"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/post-metal-slow-builds-simple-synth-preview.mp3",
       "bytes": 1258937,
       "sha256": "46ec18a18165db501be5aaf0c796cfd1fac5736a85f92ad80e218c6d09a3be0d"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3977,
-      "sha256": "6167cee6093280f1214969afe625f07bc9770ca1cb68a67d20099dfa0a8badb1"
+      "bytes": 4092,
+      "sha256": "8ca44c5856d95b6fddeee24ea8c002ffaf866acd150a807b6ab9f89dfa264a7a"
     },
     {
       "path": "social/instagram/caption.txt",
